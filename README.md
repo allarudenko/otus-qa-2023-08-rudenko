@@ -1,1 +1,2 @@
-# git-project-qu-js
+##README FILE##
+*About project...
